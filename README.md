@@ -18,14 +18,16 @@ Run mysql daemon with docker so we dont have to install mysqld on the system:
     
     desc wp_posts;
 
-## Use mysql with python
+## Convert wordpress content to markdown files
 
     python3 -m pip install mysql-connector-python
+    python3 -m pip install awesome-slugify
 
     python3 convert-wordpress-2-markdown-files.py loremPassum
 
+### Wordpress blog post database structure
 
-## Database structure
+desc wp_posts;
 
     +-----------------------+---------------------+------+-----+---------------------+----------------+
     | Field                 | Type                | Null | Key | Default             | Extra          |
@@ -55,3 +57,9 @@ Run mysql daemon with docker so we dont have to install mysqld on the system:
     | post_mime_type        | varchar(100)        | NO   |     |                     |                |
     | comment_count         | bigint(20)          | NO   |     | 0                   |                |
     +-----------------------+---------------------+------+-----+---------------------+----------------+
+
+## Run hexo in dev mode
+
+    hexo server
+    
+    
