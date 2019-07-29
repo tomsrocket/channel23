@@ -48,7 +48,7 @@ for x in myresult:
     tagresult = tagcursor.fetchall();
     
     for tag in tagresult:
-        f.write("\n- \"" + tag['name'] + '"')
+        f.write("\n- [\"" + tag['name'] + '"]')
 
     f.write("\n---\n")
     f.write(x['post_content'])
