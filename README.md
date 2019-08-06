@@ -60,6 +60,19 @@ desc wp_posts;
 
 ## Run hexo in dev mode
 
-    hexo server
+    npm run serve
+
+Beware: This will NOT generate tag- or category-pages.. To test them you need to generate the real thing
+
+## Deploy to production
+
+    npm run generate
+
+This will build all the files and write them to the "public" dir. 
+
+Tar it with 
+
+    tar -czvf blog.tgz public 
     
+ Then upload it to server and unzip.   
     
