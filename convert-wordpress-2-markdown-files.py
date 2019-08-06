@@ -36,6 +36,9 @@ tagcursor = mydb.cursor(dictionary=True)
 for x in myresult:
 
     filename = slugify(x['post_title'], to_lower=True)
+    if not (x['post_title'] and filename):
+        continue
+
     f = open("blog/source/_posts/" + filename + ".md", "w")
 
     f.write("---"
@@ -44,11 +47,33 @@ for x in myresult:
         + "\nauthor: " + x['display_name']
         + "\ncategories:")
 
-    tagcursor.execute("select * from wp_term_relationships left join wp_terms on wp_terms.term_id = wp_term_relationships.term_taxonomy_id where object_id = " + str(x['ID']))
+    tagcursor.execute("""
+        select * 
+        from wp_term_relationships 
+        left join wp_terms on wp_terms.term_id = wp_term_relationships.term_taxonomy_id 
+        left join wp_term_taxonomy on wp_term_taxonomy.term_id = wp_terms.term_id
+        where taxonomy='category' 
+        AND object_id = """ + str(x['ID'])
+        )
     tagresult = tagcursor.fetchall();
     
     for tag in tagresult:
-        f.write("\n- [\"" + tag['name'] + '"]')
+        f.write("\n- [\"" + tag['name'].lower() + '"]')
+
+    f.write("\ntags:")
+
+    tagcursor.execute("""
+        select * 
+        from wp_term_relationships 
+        left join wp_terms on wp_terms.term_id = wp_term_relationships.term_taxonomy_id 
+        left join wp_term_taxonomy on wp_term_taxonomy.term_id = wp_terms.term_id
+        where taxonomy='post_tag' 
+        AND object_id = """ + str(x['ID'])
+        )
+    tagresult = tagcursor.fetchall();
+    
+    for tag in tagresult:
+        f.write("\n- [\"" + tag['name'].lower() + '"]')
 
     f.write("\n---\n")
     f.write(x['post_content'])
