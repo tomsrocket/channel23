@@ -8,6 +8,6 @@ tags:
 ---
 ... hier kommt der nächste Kurzfilm! Diesmal von der Compilation <a href="http://www.adventuresinshortfilm.com/">"Adventures in Short Film"</a>.
 
-<object width="425" height="344" data="http://www.youtube.com/v/YrcMDsmc_Dc&amp;hl=de&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/YrcMDsmc_Dc&amp;hl=de&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YrcMDsmc_Dc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 'This is Me' von Sam Arthur.

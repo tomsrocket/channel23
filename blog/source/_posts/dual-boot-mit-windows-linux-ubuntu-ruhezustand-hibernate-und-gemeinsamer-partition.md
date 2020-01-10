@@ -5,7 +5,7 @@ author: Tom
 categories:
 - ["allgemein"]
 tags:
-- ["ubuntu dualboot linux windows7"]
+
 ---
 Ok. Manchmal nervt's mich wie kompliziert Betriebssyteme sein können.
 Wenn man ein Dual-Boot-System mit Windows und Linux hat (z.B. Windows 7 und Ubuntu) und beide laufen auf getrennten Festplatten, und man möchte die Systeme nicht immer komplett herunterfahren, 

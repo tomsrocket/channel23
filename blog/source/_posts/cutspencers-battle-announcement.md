@@ -5,6 +5,7 @@ author: fragile
 categories:
 - ["various"]
 tags:
+- ["video"]
 ---
 Ach Cutspencer. Lass doch Freunde sein. Ich will gar kein battle. Was ich von dir denken:
 <center>

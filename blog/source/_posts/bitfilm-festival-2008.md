@@ -6,6 +6,7 @@ categories:
 - ["film"]
 - ["media"]
 tags:
+- ["video"]
 ---
 <a href="http://www.bitfilm.com/festival/index.php" target="_blank">Bitfilm-Festival 2008</a> = viele nette Shorts in den Kategorien 3D Space, FX Mix, Flash, Machinima, Mobile und Realtime.Wer mag kann sich anmelden und mitvoten, wer das nicht mag schaut einfach nur gute Filme.
 

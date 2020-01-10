@@ -3,9 +3,10 @@ title: "NES Synthesizer"
 date: 2009-08-11
 author: Tom
 categories:
-- ["film"]
+- ["media"]
 - ["music"]
 tags:
+- ["video"]
 ---
 Hab gerade mal etwas Kohle in Iphone-Synthesizer gesteckt damit ich unterwegs Musik machen kann, da bin ich über dieses Video gestolpert.. Yeah. Genial. Aber irgendwie ein bisschen deprimierend wie gut es anderen Leuten gelingt, kreativ zu sein und auch noch was dabei rumkommen zu lassen :-)
 

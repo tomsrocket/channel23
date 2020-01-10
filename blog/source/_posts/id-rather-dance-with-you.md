@@ -5,6 +5,7 @@ author: fragile
 categories:
 - ["music"]
 tags:
+- ["video"]
 ---
 Ok. Einen der schlechtesten <a href="http://www.youtube.com/watch?v=C9r9sQ6PHOM" target="_blank" title="i'd rather dance with you">Kings of Convenience Songs</a> zu zitieren bringt nicht immer zwangsläufig Glück, aber gerade passt es mal. Es gäbe 'ne Menge zu erzählen von Rechnern die abstürzen, von coolen, neu entdeckten Seiten, von der Umstellung des Chatometers auf Miranda, von dem neuen Diggometer, von "discrete curvature estimation"... und von Nieberding bedingten Filmrissen, aber damit genau selbiges nicht angesprochen werden muss, rate ich euch zu einem Film den man so schnell nicht vergisst. Morgen ist Coppenrathsweg Party und es erwartet euch einiges. Ein <a href="http://trip.it-webhost.de/892006-party-im-coppenrathsweg/" target="_blank" title="flyer">Flyer</a> ...
 

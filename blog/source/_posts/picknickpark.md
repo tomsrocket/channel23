@@ -6,11 +6,10 @@ categories:
 - ["art"]
 - ["media"]
 tags:
+- ["video"]
 ---
 ein paar zusammengefrickelte webcamimpressionen zum zweijährigen bestehen des <a href="http://www.picknickpark.de" title="picknickparks">picknickpark</a>...
 
-<object height="350" width="425">
-<param name="movie" value="http://www.youtube.com/v/I-w9uajWkY4"></param>
-<param name="wmode" value="transparent"></param><ibed type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></ibed>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-w9uajWkY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</object> ... dabei ist bald schon 3-jähriges ^^
+ ... dabei ist bald schon 3-jähriges ^^

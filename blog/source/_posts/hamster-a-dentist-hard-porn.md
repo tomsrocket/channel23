@@ -4,9 +4,9 @@ date: 2009-01-26
 author: Tom
 categories:
 - ["allgemein"]
+- ["music"]
 tags:
-- ["musik video"]
 ---
-<object width="425" height="344" data="http://www.youtube.com/v/gg5_mlQOsUQ&amp;hl=de&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/gg5_mlQOsUQ&amp;hl=de&amp;fs=1" /><param name="allowfullscreen" value="true" /></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gg5_mlQOsUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 So klingt also Nightwish.. Fünf mal hören und schon kann mans nicht mehr hören. :-) Aber lustige Texte.
