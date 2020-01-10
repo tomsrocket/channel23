@@ -5,7 +5,6 @@ author: Tom
 categories:
 - ["various"]
 tags:
-- ["lösung"]
 - ["mathematik"]
 - ["zauberwürfel"]
 ---

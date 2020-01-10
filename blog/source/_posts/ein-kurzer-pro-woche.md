@@ -3,8 +3,9 @@ title: "ein kurzer pro woche"
 date: 2009-05-03
 author: th0rn
 categories:
-- ["shortfilm"]
+- ["media"]
 tags:
+- ["shortfilm"]
 ---
 Zeit für eine neue Kategorie. Ab sofort gibt es einen Kurzfilm pro Woche.
 Den Start macht "<a href="http://www.animateprojects.org/films/by_date/1998_99/ferment" target="_blank">Ferment</a>" von <a href="http://www.timeslicefilms.com/cv.shtml">Tim Macmillan</a>. Zu finden auf der lohnenswerten Seite <a href="http://www.animateprojects.org">animateprojects.org</a>.

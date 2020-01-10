@@ -3,8 +3,10 @@ title: "1 short in 2 weeks"
 date: 2009-05-24
 author: th0rn
 categories:
-- ["shortfilm"]
+- ["media"]
 tags:
+- ["shortfilm"]
+- ["video"]
 ---
 ... hier kommt der nächste Kurzfilm! Diesmal von der Compilation <a href="http://www.adventuresinshortfilm.com/">"Adventures in Short Film"</a>.
 

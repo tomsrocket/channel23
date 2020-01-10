@@ -1,6 +1,6 @@
 ---
 title: "Landkarte aller münsteraner Spielplätze 2020"
-date: 2020-01-10
+date: 2020-01-08
 author: Tom
 categories:
 - ["allgemein"]
