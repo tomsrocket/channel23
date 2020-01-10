@@ -11,7 +11,7 @@ So. Ich hatte jetzt echt die  Schnauze voll, in den ganzen Wohnungsanzeigen ste
 
 Vielleicht gibts sowas zuhauf im Internet, jedenfalls nicht mit den Suchbegriffen die ich genutzt habe..:
 
-[caption id="attachment_197" align="alignnone" width="300" caption="Münster Postleitzahlenkarte"]<a title="Postleitzahlenkarte 48xxx Münster" href="http://www.channel23.de/blog/wp-content/uploads/2009/01/munster_nrw_postleitzahlenkarte_plz_48.png"><img class="size-medium wp-image-197" title="munster_nrw_postleitzahlenkarte_plz_48" src="http://www.channel23.de/blog/wp-content/uploads/2009/01/munster_nrw_postleitzahlenkarte_plz_48-300x300.png" alt="Münster Postleitzahlenkarte" width="300" height="300" /></a>[/caption]
+[caption id="attachment_197" align="alignnone" width="300" caption="Münster Postleitzahlenkarte"]<a title="Postleitzahlenkarte 48xxx Münster" href="http://www.channel23.de/blog/wp-content/uploads/2009/01/munster_nrw_postleitzahlenkarte_plz_48.png"><img class="size-medium wp-image-197" title="munster_nrw_postleitzahlenkarte_plz_48" src="https://www.channel23.de/blog/wp-content/uploads/2009/01/munster_nrw_postleitzahlenkarte_plz_48-300x300.png" alt="Münster Postleitzahlenkarte" width="300" height="300" /></a>[/caption]
 
 <!--more-->
 

@@ -16,6 +16,6 @@ Globalisierungsgegnern, Antirassistischen Gruppen, Friedensaktivisten und d
 
 <center><object WIDTH="425" HEIGHT="350">
 <param NAME="movie" VALUE="http://www.youtube.com/v/rsKryWZ69bM"></param>
-<param NAME="wmode" VALUE="transparent"></param><embed SRC="http://www.youtube.com/v/rsKryWZ69bM" TYPE="application/x-shockwave-flash" wmode="transparent" WIDTH="425" HEIGHT="350"></embed>
+<param NAME="wmode" VALUE="transparent"></param><embed src="https://www.youtube.com/v/rsKryWZ69bM" TYPE="application/x-shockwave-flash" wmode="transparent" WIDTH="425" HEIGHT="350"></embed>
 
 </object></center>

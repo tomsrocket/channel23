@@ -8,7 +8,7 @@ tags:
 ---
 <table style="width: 194px" align="left">
 <tr>
-<td style="background: transparent url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat scroll left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center"><a href="http://picasaweb.google.com/thomas.w.werner/GuitarHero?authkey=-oo2hD7iCrk"><img src="http://lh5.google.com/thomas.w.werner/R7npl9WVtKE/AAAAAAAABss/yt0EaSjNk2A/s160-c/GuitarHero.jpg" style="margin: 1px 0pt 0pt 4px" height="160" width="160" /></a></td>
+<td style="background: transparent url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat scroll left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center"><a href="http://picasaweb.google.com/thomas.w.werner/GuitarHero?authkey=-oo2hD7iCrk"><img src="https://lh5.google.com/thomas.w.werner/R7npl9WVtKE/AAAAAAAABss/yt0EaSjNk2A/s160-c/GuitarHero.jpg" style="margin: 1px 0pt 0pt 4px" height="160" width="160" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center; font-family: arial,sans-serif; font-size: 11px"><a href="http://picasaweb.google.com/thomas.w.werner/GuitarHero?authkey=-oo2hD7iCrk" style="color: #4d4d4d; font-weight: bold; text-decoration: none">Guitar Hero</a></td>

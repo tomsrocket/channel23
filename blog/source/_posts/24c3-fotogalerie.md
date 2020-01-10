@@ -9,7 +9,7 @@ tags:
 ---
 <table style="width: 194px; float: left">
 <tr>
-<td style="background: transparent url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat scroll left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center"><a href="http://picasaweb.google.com/thomas.w.werner/24c3?authkey=6p0igrxmuSw"><img src="http://lh4.google.com/thomas.w.werner/R4FCKlYRBFE/AAAAAAAABlo/LKfBXY8y4iw/s160-c/24c3.jpg" style="margin: 1px 0pt 0pt 4px" height="160" width="160" /></a></td>
+<td style="background: transparent url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat scroll left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center"><a href="http://picasaweb.google.com/thomas.w.werner/24c3?authkey=6p0igrxmuSw"><img src="https://lh4.google.com/thomas.w.werner/R4FCKlYRBFE/AAAAAAAABlo/LKfBXY8y4iw/s160-c/24c3.jpg" style="margin: 1px 0pt 0pt 4px" height="160" width="160" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center; font-family: arial,sans-serif; font-size: 11px"><a href="http://picasaweb.google.com/thomas.w.werner/24c3?authkey=6p0igrxmuSw" style="color: #4d4d4d; font-weight: bold; text-decoration: none">24c3</a></td>

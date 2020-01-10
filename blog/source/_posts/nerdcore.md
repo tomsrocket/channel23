@@ -12,5 +12,5 @@ Wenn morgens der "normale" Mensch eine Zeitung zur Hand nimmt sitze ich bei eine
 
 Dies alles ließe sich damit zusammenfassen, dass ich ein "Nerd" bin (wenn das oben Genannte wahr wäre *zwinker).  Auf der Suche nach Gleichgesinnten stieß ich kürzlich auf die Bewegung des <a href="http://de.wikipedia.org/wiki/Nerdcore_Hiphop" target="_blank">Nerdcore</a> und obwohl für meine musikalischen Ausrichtungen eher untypisch gefallen mir ein Paar Sachen ganz gut. <a href="http://frontalot.com/index.php/" target="_blank">MC Frontalot</a> mit Bizarro Genius baby z.B.:
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/Wmx6Q0YLH8A&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Wmx6Q0YLH8A&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/Wmx6Q0YLH8A&rel=1"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/Wmx6Q0YLH8A&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 Enjoy you nerds, everyone else drop dead :-D

@@ -14,11 +14,11 @@ Zwecks Frauenquoteneinhaltung bildet Kaki King  den Abschluss dieses kleinen Fü
 
 Viel Spaß und den ganzen Artikel anzeigen lassen für die vidz.<!--more-->
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/Uv9ju0YjpyM"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Uv9ju0YjpyM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/Uv9ju0YjpyM"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/Uv9ju0YjpyM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 <center>Tommy Emmanuel</center>
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/yh_24DXNy8E"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/yh_24DXNy8E" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/yh_24DXNy8E"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/yh_24DXNy8E" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 <center>Justin King</center>
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/bbJnwk3GBiM"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/bbJnwk3GBiM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/bbJnwk3GBiM"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/bbJnwk3GBiM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 <center>Kaki King</center>

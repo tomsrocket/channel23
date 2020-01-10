@@ -8,7 +8,7 @@ tags:
 ---
 <table style="width: 194px; float: left">
 <tr>
-<td style="background: transparent url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat scroll left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center"><a href="http://picasaweb.google.de/thomas.w.werner/SESLondon2008?authkey=nkWj3hWWILM"><img src="http://lh4.google.de/thomas.w.werner/R79eMNWVtUE/AAAAAAAABzU/rq65q7gPU2Q/s160-c/SESLondon2008.jpg" style="margin: 1px 0pt 0pt 4px" height="160" width="160" /></a></td>
+<td style="background: transparent url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat scroll left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center"><a href="http://picasaweb.google.de/thomas.w.werner/SESLondon2008?authkey=nkWj3hWWILM"><img src="https://lh4.google.de/thomas.w.werner/R79eMNWVtUE/AAAAAAAABzU/rq65q7gPU2Q/s160-c/SESLondon2008.jpg" style="margin: 1px 0pt 0pt 4px" height="160" width="160" /></a></td>
 </tr>
 <tr>
 <td style="text-align: center; font-family: arial,sans-serif; font-size: 11px"><a href="http://picasaweb.google.de/thomas.w.werner/SESLondon2008?authkey=nkWj3hWWILM" style="color: #4d4d4d; font-weight: bold; text-decoration: none">SES London 2008</a></td>

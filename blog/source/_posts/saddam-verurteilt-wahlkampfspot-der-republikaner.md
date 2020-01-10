@@ -10,6 +10,6 @@ Genau zwei Tage vor den Kongresswahlen am 7. November zeigt sich die Unabhängig
 
 <object HEIGHT="350" WIDTH="425">
 <param VALUE="http://www.youtube.com/v/KLIKMMtsOfM" NAME="movie"></param>
-<param VALUE="transparent" NAME="wmode"></param><embed HEIGHT="350" WIDTH="425" wmode="transparent" TYPE="application/x-shockwave-flash" SRC="http://www.youtube.com/v/KLIKMMtsOfM"></embed>
+<param VALUE="transparent" NAME="wmode"></param><embed HEIGHT="350" WIDTH="425" wmode="transparent" TYPE="application/x-shockwave-flash" src="https://www.youtube.com/v/KLIKMMtsOfM"></embed>
 
 </object> Gelungen find ich die selbstgebastelten Clips<a HREF="http://p2p-politics.org/" TARGET="_blank">"If the Bush Administration Was Your Roommate"</a>

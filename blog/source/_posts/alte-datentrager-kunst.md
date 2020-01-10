@@ -7,7 +7,7 @@ categories:
 - ["media"]
 tags:
 ---
-<img style="float:left;padding:4px 8px" title="Pacman aus Disketten" src="http://www.channel23.de/blog/wp-content/uploads/2009/03/pacman-disketten.jpg" alt="Pacman aus Disketten" width="200" height="200" />
+<img style="float:left;padding:4px 8px" title="Pacman aus Disketten" src="https://www.channel23.de/blog/wp-content/uploads/2009/03/pacman-disketten.jpg" alt="Pacman aus Disketten" width="200" height="200" />
 
 Super, das mach' ich auch! Würde soo gut zu meinem Mini-Zauberwürfel-Pacman passen. Gerade gestern hab ich noch die alte Diskettenbox in die "Keller Eltern"-Kiste weggestellt.. Irgendwann hol' ich die wieder raus, und dann..
 
