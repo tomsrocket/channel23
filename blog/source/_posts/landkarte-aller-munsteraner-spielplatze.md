@@ -7,8 +7,6 @@ categories:
 tags:
 ---
 
-# Spielplätze in Münster
-
 
 <a href="//plot.ly/~tomsrocket/1/"><img src="//www.channel23.de/spielplaetze-in-muenster/spielplatzkarte-preview.jpg" alt="Spielplatzstandorte" /></a>
 
@@ -18,7 +16,7 @@ Ich habe mal im Jahr 2012 eine Karte mit allen Spielplätzen in Münster gebaut,
 Meine Karte von damals funktioniert leider inzwischen nicht mehr, vermutlich weil sich bei Google Maps irgend etwas geändert hat.
 
 ABER wir sind im 20. Jahrhundert, da braucht man keine Spielplatzkarte mehr selbst bauen, denn es gibt fertige Angebote: 
-
+<!-- more --> 
 ## Spielplatzkarte #1 - Umrisse 
 <a href="//geo.stadt-muenster.de/webgis/application/Umweltkataster?visiblelayers=598/6191">Diese Karte vom Katasteramt Münster zeigt von allen Spielplätzen die exakten Umrisse.</a> Und ich hätte fast behauptet, diese Karte ist perfekt, aber leider gibt es hier keine weiteren Informationen zu den Spielplätzen, z.B. welche Spielgeräte gibt es dort, oder zumindest welche Altersklassen sind die Zielgruppen des Spielplatzes.
 

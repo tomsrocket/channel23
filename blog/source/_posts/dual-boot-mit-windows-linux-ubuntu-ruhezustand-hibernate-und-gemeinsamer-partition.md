@@ -11,7 +11,7 @@ Ok. Manchmal nervt's mich wie kompliziert Betriebssyteme sein können.
 Wenn man ein Dual-Boot-System mit Windows und Linux hat (z.B. Windows 7 und Ubuntu) und beide laufen auf getrennten Festplatten, und man möchte die Systeme nicht immer komplett herunterfahren, 
 sondern im Ruhezustand beenden (Ruhezustand = "Hibernate" => Speicherabbild wird auf Festplatte gespeichert) und quasi beim Booten will man immer nur zwischen dem Linux- oder dem Windows- Ruhezustand wechseln, dann ist das solange kein Problem wie man keine *gemeinsame Partition* verwendet. 
 
-
+<!-- more --> 
 <h3>Gemeinsame Partition mit FAT-32</h3>
 Sobald man eine gemeinsame Partition hat, ist die Kacke am dampfen. 
 Ich habe für die shared Partition extra FAT32 gewählt, weil ich dachte, "altes und simples Dateisystem, da kann nicht viel schiefgehen".
