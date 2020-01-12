@@ -1,5 +1,5 @@
 ---
-title: "Wir waren bei What's Beef Münster"
+title: "Burger bei What's Beef Münster"
 date: 2020-01-11
 author: Tom
 categories:

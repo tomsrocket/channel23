@@ -4,6 +4,7 @@ date: 2020-01-08
 author: Tom
 categories:
 - ["allgemein"]
+- ["münster"]
 tags:
 ---
 

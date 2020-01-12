@@ -4,8 +4,8 @@ date: 2009-01-10
 author: Tom
 categories:
 - ["allgemein"]
+- ["münster"]
 tags:
-- ["postleitzahlen münster"]
 ---
 So. Ich hatte jetzt echt die  Schnauze voll, in den ganzen Wohnungsanzeigen steht oft nur die Postleitzahl drin, und ständig vergess' ich wo die Postleitzahlgebiete liegen.. Google Maps weiss ja anscheinend ganz gut, wo diese Postleitzahlbereiche sind (man kann nach Postleitzahlen suchen) aber es zeigt die irgendwie nicht als Übersichtskarte an, daher hab ich das mal alles in die Münster-Karte von OpenStreetMaps eingetragen.
 
