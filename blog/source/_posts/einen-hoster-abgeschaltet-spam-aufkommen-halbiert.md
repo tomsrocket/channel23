@@ -5,7 +5,7 @@ author: Tom
 categories:
 - ["unexpected"]
 tags:
-- ["spammer"]
+- ["spam"]
 ---
 Abgefahren! Die haben bei <strong>einem einzigen amerikanischen Hosting</strong> <strong>Provider </strong>den Stecker gezogen (seine Internet Provider haben ihn einfach abgeklemmt), und umgehend wird überall auf der Welt nur noch halb so viel Spamaufkommen registriert!
 
