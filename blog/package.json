@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "hexo": "^3.9.0",
+    "hexo-deployer-rsync": "*",
     "hexo-email-obfuscate": "^0.1.0",
     "hexo-generator-archive": "^0.1.5",
     "hexo-generator-category": "^0.1.3",
