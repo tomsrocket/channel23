@@ -9,20 +9,22 @@ tags:
 ---
 
 
-<a href="//plot.ly/~tomsrocket/1/"><img src="//www.channel23.de/spielplaetze-in-muenster/spielplatzkarte-preview.jpg" alt="Spielplatzstandorte" /></a>
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
+<a href="//plot.ly/~tomsrocket/1/"><img src="/images/spielplatzkarte-preview.jpg" alt="Spielplatzstandorte" /></a>
 
 *Wo sind die Spielplätze in Münster?*
 
 Ich habe mal im Jahr 2012 eine Karte mit allen Spielplätzen in Münster gebaut, weil es so etwas noch nicht gab.
 Meine Karte von damals funktioniert leider inzwischen nicht mehr, vermutlich weil sich bei Google Maps irgend etwas geändert hat.
 
-ABER wir sind im 20. Jahrhundert, da braucht man keine Spielplatzkarte mehr selbst bauen, denn es gibt fertige Angebote: 
-<!-- more --> 
-## Spielplatzkarte #1 - Umrisse 
+ABER wir sind im 20. Jahrhundert, da braucht man keine Spielplatzkarte mehr selbst bauen, denn es gibt fertige Angebote:
+<!-- more -->
+## Spielplatzkarte #1 - Umrisse
 <a href="//geo.stadt-muenster.de/webgis/application/Umweltkataster?visiblelayers=598/6191">Diese Karte vom Katasteramt Münster zeigt von allen Spielplätzen die exakten Umrisse.</a> Und ich hätte fast behauptet, diese Karte ist perfekt, aber leider gibt es hier keine weiteren Informationen zu den Spielplätzen, z.B. welche Spielgeräte gibt es dort, oder zumindest welche Altersklassen sind die Zielgruppen des Spielplatzes.
 
 ## Spielplatzkarte #2 - Punkte mit Details
-<a href="//geo7.stadt-muenster.de/webgis/map/?wmsurl=https%3A//www.stadt-muenster.de/ows/mapserv706/odspielplserv&wmslayer=spielplaetze&titel=Spielpl%C3%A4tze"> Ebenfalls vom Katasteramt eine Karte mit allen Spielplätzen.</a> Hier werden statt der exakten Umrisse aber Punkte auf der Karte angezeigt. Der Vorteil ist: Wenn man auf einen Punkt klickt, bekommt man weitere Informationen zum entsprechenden Spielplatz angezeigt. Z.B. Altersklasse, Größe in Quadratmeter, und ob ein Ballspielplatz dabei ist. Dazu gibt es folgende Kategorien: 
+<a href="//geo7.stadt-muenster.de/webgis/map/?wmsurl=https%3A//www.stadt-muenster.de/ows/mapserv706/odspielplserv&wmslayer=spielplaetze&titel=Spielpl%C3%A4tze"> Ebenfalls vom Katasteramt eine Karte mit allen Spielplätzen.</a> Hier werden statt der exakten Umrisse aber Punkte auf der Karte angezeigt. Der Vorteil ist: Wenn man auf einen Punkt klickt, bekommt man weitere Informationen zum entsprechenden Spielplatz angezeigt. Z.B. Altersklasse, Größe in Quadratmeter, und ob ein Ballspielplatz dabei ist. Dazu gibt es folgende Kategorien:
 
 
 
@@ -42,11 +44,11 @@ Ich wollte diese Informationen gern alle "gleichzeitig" in der Karte sehen könn
 <a href="//plot.ly/~tomsrocket/1/">Visuell aufbereitete Darstellung aller Münsteraner Spielplätze</a>
 
 
-Man kann mit einer solchen Karte gucken, wieviele Spielplätze in der näheren Umgebung seiner Wohnung liegen, bzw. in der Nähe der Traumwohnung wenn man auf Wohnungssuche ist. Ein weiterer Anwendungsfall ist z.B. ein langeweiliges Wochenende, an dem man nicht weiß, was man unternehmen soll: Ein Ausflug zu einem "neuen" Spielplatz geht immer. 
-Die Spielplatz-Koordinaten stammen aus der OpenData-Initiative 2011 und wurden von der Stadt Münster zur Verfügung gestellt. 
+Man kann mit einer solchen Karte gucken, wieviele Spielplätze in der näheren Umgebung seiner Wohnung liegen, bzw. in der Nähe der Traumwohnung wenn man auf Wohnungssuche ist. Ein weiterer Anwendungsfall ist z.B. ein langeweiliges Wochenende, an dem man nicht weiß, was man unternehmen soll: Ein Ausflug zu einem "neuen" Spielplatz geht immer.
+Die Spielplatz-Koordinaten stammen aus der OpenData-Initiative 2011 und wurden von der Stadt Münster zur Verfügung gestellt.
 
 **Das Open Data Portal der Stadt Münster**
 
-Wer sich selbst eine solche visuelle Darstellung bauen möchte, findet die notwendigen Daten auf dem Open-Data-Portal der Stadt Münster:  
+Wer sich selbst eine solche visuelle Darstellung bauen möchte, findet die notwendigen Daten auf dem Open-Data-Portal der Stadt Münster:
 <a href="//opendata.stadt-muenster.de/dataset/kinderspielpl%C3%A4tze">Datensatz mit allen Spielplatz-Standorten und weiteren Informationen, leider aber *nicht* mit einer detaillierten Liste aller Spielgeräte</a>
 
