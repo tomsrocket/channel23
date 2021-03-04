@@ -9,9 +9,7 @@ tags:
 ---
 
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
-<a href="//plot.ly/~tomsrocket/1/"><img src="/images/spielplatzkarte-preview.jpg" alt="Spielplatzstandorte" /></a>
+[![Spielplatzstandorte](/images/spielplatzkarte-preview.jpg)](//plot.ly/~tomsrocket/1/)
 
 *Wo sind die Spielplätze in Münster?*
 
