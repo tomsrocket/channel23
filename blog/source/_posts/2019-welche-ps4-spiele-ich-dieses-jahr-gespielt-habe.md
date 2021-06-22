@@ -7,8 +7,6 @@ categories:
 tags:
 ---
 
-# Games, die ich 2019 & 2020 gespielt habe
-
 In 2019 war's wegen dem Playstation Plus Abo und in 2020 war Corona schuld, jedenfalls, ich glaube so viel Playstation 4 gespielt wie in 2019 und 2020 habe ich schon lange nicht mehr. Einerseits ab und zu tagsüber mit den Kindern, das haben wir vorher eigentlich so gut wie nie gemacht. Und andererseits habe ich auch abends deutlich länger gespielt als in den Jahren zuvor.
 Das mag auch daran liegen, dass ich wieder angefangen habe, langatmige Spiele zu spielen, die ich vorher eigentlich gemieden hatte, wie z.B. Assasins Creed, Witcher, Cyberpunk 2077.
 
