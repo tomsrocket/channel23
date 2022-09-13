@@ -29,6 +29,17 @@ Ich hab' beschlossen, dabei ein paar Musik-CDs auszusortieren und gleichzeitig n
 * **Cobretti - Stall (Wan)** (2001) - Habe ich vielleicht auf einem "Der Tante Renate"-Konzert im AMP in Münster gekauft. Äh .. ja, nichtssagender Elektro Lowfi Trash .. Der lustigste Song ist wohl "Nitzpipp" von Plemo: https://www.youtube.com/watch?v=mXjy8oNh7PA aber auch den will ich eigentlich nie wieder hören :)
 * **Eniac - Oh?** (2005) - Keinen Schimmer woher ich dieses Hardcore- / Noise-Rock-Album habe. Komplex, energiegeladen, stellenweise melodisch, aber mir ist dieser Sound deutlich zu anstrengend, alles verzerrt bis zum geht nicht mehr und der Sänger brüllkreischt einem die Ohren weg, dafür bin ich wohl zu alt geworden.
 
+### Update 2022:
+
+Die CD-Regale stehen da immer noch rum und sind zu voll.. Jetzt geht's ans Eingemachte. Man muss nicht alle CDs von Primus oder von Kyuss besitzen.. Daher, let's wave "goodbye" to:
+
+* **808state - Gorgeous** (1992) - Das ist vielleicht kultigier 90er Sound, aber das Album hab' ich damals garnicht besessen, sondern erst in den 2010ern gekauft und verbinde daher keine Erinnerungen damit. Den Hit "Timebomb" kann man auch streamen.
+* **Phoneheads - Peak Position** (1999) - Ist schon netter und grooviger Hintergrund-Sound (z.B. "Black and Blond"), aber zu oft gehört.
+* **Rage Against The Machine - Evil Empire** (1996) - Definitiv nicht ihr bestes Album, und ich brauche den Platz im Regal.
+* **Primus - Tales from the Punchbowl** (1995), **Primus - Frizzle Fry** (1990), **Primus - Sailing the Sea of Cheese** (1991) - Ja, das sind geniale Songs, aber ich hab's jahrzehntelang nicht gehört, und meine Primus-Phase ist halt einfach vorbei. Ich behalte nur das "Too Many Puppies" Bootleg-Album und "Pork Soda".
+
+Für gebrannte Mix-CDs und die Harakiri- und Ox-Fanzine-Sampler habe ich eine andere Lösung gefunden: 120er CD-Tasche. Weg mit den Hüllen.
+
 ## Diese CDs dürfen bleiben:
 * **The Magi & Emanation - "Everybody say love"** (1993) - Gab's vermutlich in Dülmen im CD-Laden, da ist ein extra Aufkleber "including Prodigy remix" drauf, und das ist der einzige Grund, warum diese CD in meinen Besitz gewechselt hat. Beim ersten Track klappt einem derbe die Kinnlade runter - ziemlicher Pop/Techno Schrott - aber Track 3 hält was er verspricht, da steht Prodigy drauf und ist auch Prodigy drin: https://www.youtube.com/watch?v=kAGQ80qzCII
 * **Westbam - "Celebration Generation (Maxi)"** - Der Song ist ja an sich schon genial, aber der zweite Track der Maxi setzt noch einen drauf: https://www.youtube.com/watch?v=fFwzgDU_Mj8 - Ultimativer Partytrack!
@@ -37,7 +48,7 @@ Ich hab' beschlossen, dabei ein paar Musik-CDs auszusortieren und gleichzeitig n
 * **Exit 100 - "Circuits"** (1993) - Genial! TB303- und TR808-Sounds abseits der ausgetretenen Pfade, und das gibt's nirgenwo auf Spotify, muss ich behalten. Mein Lieblingssong "Procession" ist nicht mal auf Youtube..
 * **Mouse on Mars - "Audiotacker"** (1997) - Wieso sind zig Alben von Mouse on Mars auf Spotify, aber nicht "Audiotacker"? Dann behalte ich die CD mal lieber. Track 7 ist mein absoluter Favorit: https://www.youtube.com/watch?v=MrJj7pvN-ts
 * **Jonny L - "Sawtooth"** (1997) - Ein Drum&Bass-Klassiker. "I let u" war eins meiner ersten Drum&-Bass-Lieblingsstücke, daher bleibt das Album.
-
+* **Jean-Michel - The Audience is Missing** (2007) - Ich finde der Münsteraner Thomas Bücker hat einen netten, entspannten aber ganz leicht abgefahrenen Elektronikmusik-Stil und ich möchte das behalten. Auf Spotify steht bei Jean Michel "34 Listeners". Das ist also definitiv Musik abseits der ausgetretenen Pfade.
 
 ## Nebenbei auf gebrannten Mix-CDs gefunden:
 * **Whodini & Westbam - "Haunted House of Rock (Westbam remix)"** - https://www.youtube.com/watch?v=BAHonm0MaAQ - Sehr cooler Track, und ich wusste garnicht, dass es dazu ein Original von Whodini gibt, das ebenfalls recht spaßig ist.
