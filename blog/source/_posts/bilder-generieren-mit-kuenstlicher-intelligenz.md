@@ -38,8 +38,20 @@ Mystical evil scifi squirrel king with fire eyes, wearing an elaborate medieval 
 
 ![Eichhörnchenkönig aus der Hölle #2](/images/image-generation-squirrel-2.png)
 
-
 Aus Spaß habe ich mal versucht, ein apokalyptisches Eichhörnchen zu generieren. Das klappt echt ganz gut!
 
-Aufgabe wäre nun, photorealistische Bilder zu erzeugen, die man z.B. als Foto zu einem Pressetext dazugeben kann. In unserem Fall sollte das möglichst real, also eher normal und im Vergleich zum Feuer-Eichhörnchen auch ziemlich langweilig aussehen.
-Dazu hab ich einige Versuche gestartet, aber sobald einfach nur eine Menge an Menschen auf dem Foto sein sollte, sah das leider total weird aus..
+## ..und realistische Fotos?
+
+Im zweiten Schritt wollte ich photorealistische Bilder erzeugen, die man z.B. als Foto zu einem Pressetext dazugeben kann. Das sollte das möglichst real, also eher normal und im Vergleich zum Feuer-Eichhörnchen auch ziemlich langweilig aussehen. Ich wollte ganz normale Menschen "wie Du und ich" haben, die in der Stadt an Laptops zusammen arbeiten.
+
+Dazu hab ich einige Versuche gestartet, aber sobald Menschen auf dem Bild zu sehen sind, wird das leider total creepy, weil die Gesichter etwas komisch ausschauen.. Beispiele siehe unten. Das sieht auf den ersten Blick ganz nett aus, aber sobald man sich das in etwas größer anschaut bzw. genauer hinschaut, dann ist das der Stoff aus dem Albträume sind. :)
+
+|   |   |   |
+|---|---|---|
+| <img src="/images/citizens-with-laptops1.png" alt="Versuch 1" width="200"/> | <img src="/images/citizens-with-laptops2.png" alt="Versuch 2" width="200"/> | <img src="/images/citizens-with-laptops3.png" alt="Versuch 3" width="200"/> |
+
+
+## Next Level: Ein bestehendes Bild als "Input"
+
+Andy hat eine gute Anleitung, wie man Stable Diffusion nutzen kann, um iterativ ein Bild aus einer bzw. mehreren Vorlagen zu generieren: https://andys.page/posts/how-to-draw/#
+
