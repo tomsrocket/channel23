@@ -25,6 +25,10 @@ by Samuel Palmer and Gustave Dore  (artist names / styles),
 8k resolution, a masterpiece, 35mm, hyperrealistic, hyper maximalist (photography/artistic prompts),
 crimson, pink (colors).
 ```
+
+Prompt-Beispiele inklusive visuelle Vorschau der generierten Styles gibt es hier:
+* https://github.com/Dalabad/stable-diffusion-prompt-templates
+
 ## Weitere Tipps für KI-Prompts
 * Die Reihenfolge im Prompt spielt eine Rolle, daher das Hauptthema bzw. wichtigste Schlagworte an erste Stelle setzen.
 * Beschreibende Adjektive einbauen. Vermeiden, dass die Eingabeaufforderung mit widersprüchlichen Wörtern überfüllt wird.
