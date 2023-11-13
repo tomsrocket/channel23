@@ -8,9 +8,6 @@ categories:
 tags:
 ---
 
-![Retro Arcade Automat im Wohnzimmer](/images/bartop-arcade.jpg)
-
-
 # Retro-Games sind in!
 
 Vor ein paar Jahren kam der Trend auf, alte Spielkonsolen (wie z.B. die erste Playstation oder das Super Nintento) als Mini-Spielkonsolen mit ein paar eingebauten Spielen wieder auferstehen zu lassen und zu Preisen ab 100€ zu verkaufen.
@@ -20,8 +17,6 @@ Derzeit gibt's anscheinend noch einen neuen Trend: USB-Sticks aus China mit vert
 Vierzigtausend Spiele für 70€? Die Amazon-Bewertungen geben 3,4 Sterne, das ist nicht wirklich gut, aber auch nicht komplett schlecht. Der USB-Stick wird wohl schnell heiß, stürzt gern mal ab und die Joysticks sind schlecht. Für den Preis ist das wohl auch nicht anders machbar.
 
 Aber das Geld kann man sich sparen! Wer noch einen Raspberry Pi und alte Gamepads oder Joysticks herumfliegen hat, kann sich sowas auch selbst installieren.
-
-<!-- more -->
 
 ## Hardware-Auswahl
 
@@ -51,6 +46,13 @@ Feature-Vergleich:
 ## Auswahl einer Spiele-Emulations-Oberfläche
 
 Der Clou des ganzen ist aber nicht die Hardware, sondern die Software. Es gibt sehr gut Open-Source-Projekte, die vorkonfigurierte Emulatoren und eine hübsche und benutzerfreundliche Oberfläche bieten.
+
+### Spoiler: RecalBox vs. RetroPie?
+* 😀 RecalBox "**just works**": Roms reinkopieren, *gamelist.txt* erstellen, fertig. Man muss sich um sonst nichts kümmern, der Rest funktioniert einfach. Und die wichtigen Dinge kann man direkt aus dem Emulationstation-Menü einstellen.
+
+* 😡 RetroPie dagegen ist **super viel Arbeit**, um es vernünftig zu konfigurieren. Es gibt einige Probleme, nachdem man die Roms reinkopiert hat.. Emulatoren laufen nicht, weil Bios-Dateien fehlen, aber man bekommt nicht heraus welche fehlen. Auch ansonsten scheinen die Emulatoren bei RecalBox deutlich besser vorkonfiguriert zu sein. Und die ganzen komfortablen RecalBox-Einstellungen über das Emulationstation-Menü fehlen ebenfalls, statt dessen muss man seitenweise Dokumentations-Wikis wälzen.
+
+<!-- more -->
 
 ### Recalbox
 Auf meinem ODroid XU4 läuft **Recalbox**, eine All-in-one Retrospiele-Oberfläche mit eingebautem GUI, automatischer Joystick-Erkennung und allen möglichen vorkonfigurierten Emulatoren:
@@ -134,7 +136,7 @@ Option 1\
 Man kann über das Haupmenü einen Factory-Reset durchführen, dann vergisst das EmulationStation alle Einstellungen (also solche Einstellungen wie: Controller Settings, Overlays ausschalten, Menü-Musik auschalten, 2x bestätigen zum Spiele beenden, ..)
 
 Option 2
-* Erst EmulationStation stoppen, damit sie die config Dateien nicht wieder überschreibt (macht sie sonst beim beenden gern mal):
+* Erst **EmulationStation stoppen, damit es die config Dateien nicht wieder überschreibt** (macht es sonst beim beenden gern mal):
 Also auf dem Device: Strg+Alt+F2 drücken für ein Terminalfenster (oder per SSH). Einloggen mit *root / recalboxroot*.
 * Dann `es stop` eingeben um EmulationStation zu beenden.
 * Nun über's Netzwerk die Config Datei anpassen:
