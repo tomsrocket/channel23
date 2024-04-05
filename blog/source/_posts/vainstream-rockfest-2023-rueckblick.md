@@ -10,6 +10,8 @@ tags:
 
 Das Vainstream Festival 2023 in Münster am Hawerkamp bzw. auf dem Gelände der Halle Münsterland fand ich insgesamt gut organisiert. Wichtig neben guter Musik und guter Stimmung ist ja auch ein ansonsten reibungsloser Ablauf, und das haben sie gut hinbekommen: Zwei kostenlose Wasserstellen, Bierstände an denen es relativ zügig ging und ausreichend Fressbuden mit kurzen Wartezeiten. Gut war auch die Halle Münsterland, eine riesengroße, sonnengeschützte, überdachte und ruhige Fläche mit Sitzgelegenheiten, wo man in Ruhe von dem Festivaltrubel ausspannen konnte.
 
+<!-- more -->
+
 ## Einlass
 Wir sind gegen 12:00 zum Eingang aufgebrochen und sind sehr schnell durch alle Kontrollen und Bändchen-Ausgaben durchgekommen. Wir hatten als Gepäck jeweils:
 * 1L-Tetra-Pack

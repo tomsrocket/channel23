@@ -10,13 +10,12 @@ tags:
 
 ![Retro Arcade Automat im Wohnzimmer](/images/bartop-arcade.jpg)
 
-
-# Mein Arcade Gehäuse
-
-In den 2000ern hatte ich mir mal zwei gleichartige TV-Ideal Arcade-Gehäuse gekauft. Bei beiden war der Monitor kaputt, ansonsten war alles intakt, sogar mit Jamma-Adapter und original Spielplatinen. Ich brauchte im Endeffekt nur eines und habe das andere wieder verkauft. In das verbleibende Spielautomatengehäuse habe ich dann einen PC und einen alten Röhrenmonitor eingebaut, das sah dann ungefähr so aus:
+Ich wollte schon immer einen Spielautomaten zu Hause haben und habe mir daher in den 2000ern für günstig zwei kaputte TV-Ideal Arcade-Gehäuse gekauft. Bei beiden war der Monitor kaputt, ansonsten war alles intakt, original Spielplatinen und Jamma-Einsteck-Adapter inklusive. Ich hab dann einen PC und einen alten Röhrenmonitor eingebaut, das sah dann ungefähr so aus:
 https://next-level.fun/die-wiederauferstehung-des-tv-ideal/
 
-Inzwischen habe ich die Röhre durch einen Flachbildschirm, und den alten PC durch einen Raspberry Pi 4 ersetzt.
+Eins der Gehäuse habe ich heute noch, inzwischen mit Flachbildschirm statt Röhre, und den alten PC durch einen Raspberry Pi 4 ersetzt. Dieser Blogartikel soll der Dokumentation der Hard- und Softwarekomponenten dienen.
+
+<!-- more -->
 
 ## Eckdaten des Gehäuses
 
@@ -38,8 +37,6 @@ Buttons pro Spieler:
 * Coin Button (Gehäuseseite)
 
 Und noch 1x Extra Button an der rechten Gehäuseseite weiter hinten. Die Coin- und Reset-Buttons an der Gehäuseseite habe ich selbst eingebaut, die sind nicht original.
-
-<!-- more -->
 
 # Controller bzw. Tatatur konfigurieren
 
