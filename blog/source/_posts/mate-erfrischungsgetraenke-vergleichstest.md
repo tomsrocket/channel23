@@ -24,14 +24,18 @@ Ich hab's [gerade nochmal auf Wikipedia nachgelesen](https://de.wikipedia.org/wi
 
 ## Tom's Mate-Vergleichstabelle
 
-Ich habe im Kiosk um die Ecke alle Mate-Limos gekauft, die verfügbar waren. Hier sind meine Ergebnisse:
+Ich bei den Läden um die Ecke ein paar Mate-Limos gekauft. Hier sind meine Ergebnisse:
 
 | Getränk / Größe | * | Koff. / 100ml | Koff. / Fl. | kcal / 100ml | Zucker /100ml | Geschm.** | Kohl- ens.**|
 | ----   | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Liba Mate  0,33l |   -       | 29mg | 87mg  | 16   | 4g   | Frisch, mild | 4/5 |
+| Liba Mate  0,33l |   -       | 29mg | 95mg  | 16   | 4g   | Frisch, mild | 4/5 |
 | Fritz Mate  0,5l |   ✅      | 25mg | 125mg | 22   | 5,2g | Intensiv, "erdig" | 3/5 |
 | Club Mate  0,5l |    ✅      | 20mg | 100mg | 20,5 | 5g   | Das original | 4/5 |
 | Mio Mio Mate  0,5l | ✅      | 20mg | 100mg | 24   | 5,7g | Süß | 4/5 |
+| DM Bio Mate 0,43l |  ✅      | 30mg | 129mg | 19   | 4,8g | Kalter Tee | 4/5 |
+| Chari Tea Mate 0,33l | ✅    | -    | -     | 17   | 4g   | Erdig, zitronig | 3/5 |
+| Voelkl BioZisch Mate 0,33l | ✅ | 30mg | 99mg | 17 | 4g | Stark, bitter | 3/5 |
+
 
 \* Schraubverschluss Ja/Nein\
 ** Geschmacksbeschreibung, Kohlensäuregehaltsbewertung, etc. sind natürlich absolut subjektiv.
@@ -40,7 +44,7 @@ Ich habe im Kiosk um die Ecke alle Mate-Limos gekauft, die verfügbar waren. Hie
 
 Also, Kaffee hat im Vergleich zu Mate schonmal deutlich mehr Koffeein: Eine 125ml-Tasse Kaffe, sagt man, enthalte ca. 100mg Koffein. Also ein 200ml Becher Kaffee hätte dann schon 1,5mal so viel Koffein wie eine 500ml Flasche Club-Mate. Kaffee trinkt man allerdings auch weniger, würde ich mal sagen.
 
-### Kaffeee
+### Kaffee
 Kaffee wird folgendes zugeschrieben:
 * Koffein wirkt belebend und kann die Stimmung verbessern
 * Außerdem geistige Wachheit und Konzentration steigern
@@ -49,13 +53,10 @@ Kaffee wird folgendes zugeschrieben:
 * Kaffee hat keinen Zucker und keine Kalorien
 
 ### Mate-Tee
-
 Mate kann folgendes:
-* Hat ebenfalls Koffein und Antioxidantien
+* Hat ähnlich viel Koffein wie Kaffee sowie Antioxidantien
 * Also gilt das gleiche wie für Kaffee
-* Sicher ist wohl auch, dass Mate harntreibend wirkt
-* Daher zur Durchspülungstherapie bei leichten Harnwegsbeschwerden taugt
-* Bei Mateerfrischungsgetränken kommt definitiv **negativ** der Zuckergehalt in die Bilanz. Zwei Flaschen davon decken die gesamte Menge Zucker, die man laut WHO als Mensch pro Tag zu sich nehmen sollte.
+* Sicher ist wohl auch, dass Mate harntreibend wirkt und somit Harnwegsbeschwerden vorbeugen oder therapieren kann
 
 Außerdem sollen unbestätigte Studien für Yerba-Mate folgendes herausgefunden haben [(Also: medizinisch nicht erwiesen!)](https://www.fitbook.de/gesundheit/mate-tee):
 * Senkt den Cholesterinspiegel
@@ -63,7 +64,9 @@ Außerdem sollen unbestätigte Studien für Yerba-Mate folgendes herausgefunden 
 * gut für das Herz-Kreislauf-System
 * könnte Übergewicht reduzieren
 
-Ist aber die Frage: Macht der Zuckergehalt von Club-Mate diese Wirkungen wieder zu Nichte? Vermutlich ja :)
+### Zucker
+* Bei Mateerfrischungsgetränken kommt definitiv **negativ** der Zuckergehalt in die Bilanz. Zwei Flaschen davon decken die gesamte Menge Zucker, die man laut WHO als Mensch pro Tag zu sich nehmen sollte.
+* Ist also die Frage: Macht der Zuckergehalt Mate-Erfrischungsgetränken die positiven Wirkungen wieder zu Nichte? Vermutlich ja, man sollte Sorten mit weniger Zucker bevorzugen.  :)
 
 ## Gesundheitsgefahren?
-Apropos Zuckergehalt. Gibts noch andere negative Punkte? [Sowohl für Kaffee](https://www.krebsinformationsdienst.de/aktuelles/detail/krebs-durch-kaffee) als auch für Mate hört man immer mal wieder was von krebserregenden Stoffen. Im Kaffee sind das beispielsweise Furan, Acrylamid und Polyzyklische Aromatische Kohlenwasserstoffe (PAK). Im Mate-Tee ist das wohl ähnlich wegen Rückständen bei der Trocknung der Yerba-Mate-Blätter, insbesondere wenn die geräuchert wurden. Das DKFZ sagt dazu, dass die guten Inhaltsstoffe "die möglicherweise schädliche Wirkung abmildern oder neutralisieren". Das sind doch gute Nachrichten. Trotzdem hilft wahrscheinlich wenn man beides in Maßen trinkt.
+Gibts noch andere negative Punkte? [Sowohl für Kaffee](https://www.krebsinformationsdienst.de/aktuelles/detail/krebs-durch-kaffee) als auch für Mate hört man immer mal wieder was von krebserregenden Stoffen. Im Kaffee sind das beispielsweise Furan, Acrylamid und Polyzyklische Aromatische Kohlenwasserstoffe (PAK). Im Mate-Tee ist das wohl ähnlich wegen Rückständen bei der Trocknung der Yerba-Mate-Blätter, insbesondere wenn die geräuchert wurden. Das DKFZ sagt dazu, dass die guten Inhaltsstoffe "die möglicherweise schädliche Wirkung abmildern oder neutralisieren". Das sind doch gute Nachrichten. Trotzdem hilft wahrscheinlich wenn man beides in Maßen trinkt.
