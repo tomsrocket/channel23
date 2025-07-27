@@ -3,6 +3,48 @@ Another web experiment :)
 
 Convert an old wordpress blog into single markdown files per blog post so they can be used with a static site generator like Hugo.
 
+## Run project
+
+
+```bash
+# first time 
+git clone ...
+git submodule init # fetch templates in submodule
+git submodule update
+apt install npm
+
+# run dev mode
+./serve.sh
+
+# if the template is not most recent version
+cd themes/hiero # cd into submodule dir
+git checkout master 
+git pull
+cd ..
+git add hiero # git add the submodule dir
+git commit ...
+
+```
+
+## Run hexo in dev mode
+
+    npm run serve
+
+Beware: This will NOT generate tag- or category-pages.. To test them you need to generate the real thing
+
+## Deploy to production
+
+    npm run generate
+
+This will build all the files and write them to the "public" dir. 
+
+Tar it with 
+
+    tar -czvf blog.tgz public 
+    
+ Then upload it to server and unzip.   
+    
+
 ## Import old database
 
 Run mysql daemon with docker so we dont have to install mysqld on the system:
@@ -57,22 +99,3 @@ desc wp_posts;
     | post_mime_type        | varchar(100)        | NO   |     |                     |                |
     | comment_count         | bigint(20)          | NO   |     | 0                   |                |
     +-----------------------+---------------------+------+-----+---------------------+----------------+
-
-## Run hexo in dev mode
-
-    npm run serve
-
-Beware: This will NOT generate tag- or category-pages.. To test them you need to generate the real thing
-
-## Deploy to production
-
-    npm run generate
-
-This will build all the files and write them to the "public" dir. 
-
-Tar it with 
-
-    tar -czvf blog.tgz public 
-    
- Then upload it to server and unzip.   
-    
