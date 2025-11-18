@@ -81,13 +81,18 @@ Das Image der aktuellen (10/2023) RecalBox "Version 9.1 - Pulstar" gibt's hier: 
 ## Spiele-ROMs
 
 ### Wie kann man Spiele hinzfügen?
-Die SD-Karte in ein anderes System zu stecken, um Datein hinzuzufügen, das bringt nichts. Von der 32GB-SD-Karte sieht man dann nur die ca. 3GB große Boot-Partition.
-Das liegt an dem zugrundeliegenden Batocera Linux, da ist die eigentliche Batocera-Partition in einem speziellen Format. Man kann nur ROMs hinzufügen wenn das Batocera-System hochgefahren ist. Dann entweder durch Anstecken eines USB-Sticks mit den ROMs oder über Netzwerk Share.
+A) Die SD-Karte in ein anderes System stecken, um Datein hinzuzufügen. Da gibt's eine Partition names "Share", auf der man Spiele, Vorschaubilder & co ablegen kann.
 
-Über Netzwerk kann man ROMs auf den Share `\\RECALBOX\` in den passenden Ordner kopieren. Allerdings haben die Spiele dann keine Vorschau-Bilder.
+B) Über Netzwerk kann man die Dateien auf den Share `\\RECALBOX\` in den passenden Ordner kopieren. 
+
+Beispiel Arcade-Emulation per Mame: Wenn man ein Rom-Pack samt Vorschaubildern, Videos und "gamelist.xml" hat, kann man das einfach alles in das "mame"-Oberverzeichnis kopieren. Der erkennt automatisch welche Roms funktionieren, und welche von einer nicht-unterstützten Mame-Version stammen. Letztere werden in der GUI dann als nicht-funktionsfähig angezeigt, und die kann man dann über die Einstellung im Frontend-Hauptmenü ausblenden.
+
+Bios-Dateien kann man in das Hauptverzeichnis "bios" legen. Wenn man dann die Web-Oberfläche vom Recalbox System aufruft, dann gibts dort einen Menüpunkt "Bios", auf dem man sehen kann, welche Bios-Dateien erkannt wurden. Achtung allerdings: Die werden direkt nach dem draufkopieren schon erkannt, aber damit die auch funktionieren, muss man das Recalbox System erst neustarten.
+
 
 ### ROM Manager
-Es gibt für die Emulatoren-Config bei Recalbox eine "gamelist.txt"-Datei, da muss man Sachen eintragen, damit die Spiele im Auswahlmenü hübsch aussehen. Das macht von Hand keinen Spaß. Daher empfiehlt sich, einen der extra dafür vorgesehenen ROM Manager zu nutzen:
+Es gibt für die Emulatoren-Config bei Recalbox eine "gamelist"-xml oder -txt-Datei, da muss man Dinge eintragen, damit die die Vorschaubilder gefunden werden und die Spiele dann im Auswahlmenü hübsch aussehen. Diese Gamelist Dateien von Hand erstellen macht keinen Spaß. Daher empfiehlt sich, einen der extra dafür vorgesehenen ROM Manager zu nutzen:
+* Romulus & Clrmamepro - https://wiki.recalbox.com/en/tutorials/utilities/rom-management
 * Skraper - https://www.skraper.net
 * ARRM - http://jujuvincebros.fr/hard-soft/arrm-gamelist-roms-manager-scraper
 
@@ -95,11 +100,11 @@ Diese ROM Manager lesen die Daten von folgenden Spieledatenbanken ab:
 * Screen Scraper - https://www.screenscraper.fr
 * TheGamesDB - https://thegamesdb.net
 
-Außerdem hat Recalbox einen eingebauten Scraper, der neue ROMs feststellen kann und dann die passenden Beschreibungen raussucht. Dieser eingebaute Scraper funktioniert bei mir leider nicht.
+Falls man nur auf die Schnelle ein paar Spiele reinkopieren will, hat Recalbox einen eingebauten Scraper, der neue ROMs feststellen kann und dann die passenden Informationen raussucht und herunterlädt. Das geht direkt über das GUI Frontend.
 
 ### Wo bekommt man Spiele-ROMs her
 
-So ein China-Gerät mit 40.000 Spielen ist evtl. eine gute Quelle. Ansonsten findet man einiges auf Google. Sehr gute fertig zusammengestellte und vorkonfigurierte Image-Dateien findet man bei Arcadepunks.
+So ein, im Intro dieses Textes genanntes, China-USB-Stick-Gerät mit 40.000 Spielen ist evtl. eine gute Quelle. Ansonsten findet man einiges auf Google. Fertig zusammengestellte und vorkonfigurierte Image-Dateien findet man bei Arcadepunks.
 
 ## EmulationStation im Einsatz
 
@@ -110,10 +115,14 @@ Wenn man den Controller konfiguriert, dann kann man eine Hotkey-Taste definieren
     Hotkey + Start = exit emulator
     Hotkey + R1    = save state
     Hotkey + L1    = load saved state
-    Hotkey + Left  = decrease current saved state slot number
-    Hotkey + Right = increase current saved state slot number
+    Hotkey + Down  = decrease current saved state slot number
+    Hotkey + Up    = increase current saved state slot number
+    Hotkey + Left  = rewind game (e.g. after a game over)
+    Hotkey + Right = fast forward game
     Hotkey + X     = quick menu (with access to most of these other items)
     Hotkey + B     = reset game
+
+Alle Kombinationen werden hier beschrieben: https://wiki.recalbox.com/en/basic-usage/getting-started/special-commands/in-game
 
 ### Joystick Probleme lösen
 
@@ -144,3 +153,5 @@ In `\\RECALBOX\share\system\recalbox.conf` die Zeilen `emulationstation.padX=...
 ## Pro-Version: Bartop-Gehäuse
 
 Hier gibt's einen coolen holländischen Shop mit Bausätzen für Tabletop/Bartop Arcade-Gehäusen: https://arcade-expert.nl/Bartop-DHZ-Arcadekast-Bouwpakket
+
+Es lohnt sich auch, auf (Ebay)-Kleinanzeigen zu schauen. Ab und zu verkaufen Menschen sowas.
