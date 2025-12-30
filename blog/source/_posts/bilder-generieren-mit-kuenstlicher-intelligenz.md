@@ -14,7 +14,8 @@ tags:
 ## Eine kurze Liste mit KI-Bildergeneratoren
 * https://www.craiyon.com - Keine Registrierung erforderlich, sofort loslegen, und es werden gleich 9 Bilder generiert. Allerdings haben die Bilder nur sehr geringe Auflösung und können daher nur als Thumbnails oder Social Media Icons verwendet werden.
 * https://creator.nightcafe.studio - Hier bekommt man einige freie Credits um Bilder zu generieren und kann sofort loslegen, erstmal ohne Registrierung oder Kreditkarte.
-* https://nlpcloud.com/home/playground/image-generation - Um ein Token zu bekommen, muss man sich registrieren und eine Kreditkarte hinterlegen. Dafür kann man dann erstmal tausende Bilder generieren, ohne dass die Kreditkarte belastet wird.
+* https://nlpcloud.com - Um Token zu bekommen, muss man sich registrieren und eine Kreditkarte hinterlegen. Dafür kann man dann erstmal tausende Bilder generieren, ohne dass die Kreditkarte belastet wird.
+* https://stablediffusionweb.com - Der Klassiker "Stable Diffusion" ermöglicht Bildgenerierung und Bearbeitung in mehreren Schritten, sowie das Hochladen von Startbildern. 
 * https://thispersondoesnotexist.com - Generiert ausschließlich sehr realistische Portraitfotos in hoher Auflösung.
 
 Weitere findet man über eine Google Suche a la *"best ai photo generator free"*
@@ -54,4 +55,3 @@ Dazu hab ich einige Versuche gestartet, aber sobald Menschen auf dem Bild zu seh
 ## Next Level: Ein bestehendes Bild als "Input"
 
 Andy hat eine gute Anleitung, wie man Stable Diffusion nutzen kann, um iterativ ein Bild aus einer bzw. mehreren Vorlagen zu generieren: https://andys.page/posts/how-to-draw/#
-

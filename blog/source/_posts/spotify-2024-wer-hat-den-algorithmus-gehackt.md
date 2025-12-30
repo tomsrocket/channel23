@@ -5,6 +5,8 @@ author: Tom
 categories:
 - ["music"]
 tags:
+- ["trash"]
+
 ---
 
 Habt ihr in letzter Zeit mal in "Dein Mix der Woche" auf Spotify reingehört? Ich hab das heute getan und nicht schlecht gestaunt!
