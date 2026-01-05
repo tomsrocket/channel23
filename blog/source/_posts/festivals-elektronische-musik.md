@@ -11,6 +11,8 @@ In diesem Artikel hab ich Festivals aufgelistet, die ich potenziell gern besuche
 
 <!--more-->
 
+PS: Unter https://www.termininator.de habe ich eine Seite programmiert, auf der man aus (fast allen?) Festivals in Deutschland die gewünschten Festivals auswählen kann, und sich dann einen übersichtlichen Jahreskalender mit den gewählten Festivals, Ferien und Feiertagen anzeigen lassen kann. 
+
 --------
 
 
@@ -107,7 +109,7 @@ Vorteile:
 ## Fusion Festival
 
 * Bestes Festival ever
-* Nachteil: Weit weg
+* Nachteile: Weit weg, meist gleichzeitig zum Vainstream Rockfest
 
 --------
 
